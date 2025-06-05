@@ -1,1 +1,1 @@
-# lip_reading_AI
+Develops an AI model for lip reading.
